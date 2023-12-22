@@ -14,15 +14,15 @@ This program is a simple contract written in remix. The contract allows you to a
 
 ## Requirements
 
-1)The contract has public variables to store the details about the coin: tokenName, tokenAbbrv, and totalSupply.
+1)The contract has public variables to store the details about the coin: tokenName, tokenAbbrvation, and totalSupply.
 
 2)The contract uses a mapping of addresses to balances: mapping(address => uint) public balances.
 
-3)The mint function increases the total supply by the given amount and increases the balance of the given address by that amount.
+3)The minting function increases the total supply by the given amount of token and increases the balance of the given address by that amount of token.
 
-4)The burn function deducts the given amount from the total supply and from the balance of the given address.
+4)The burning function deducts the given amount of token from the total supply and from the balance of the given address.
 
-5)The burn function includes conditionals to make sure the balance of the given address is greater than or equal to the amount that is supposed to be burned.
+5)The burning function includes conditionals to make sure the balance of the given address is greater than or equal to the amount of token that is supposed to be burned.
 ## Usage
 
 To use this contract, you can deploy it to a Ethereum network (such as the mainnet, Ropsten, or a local testnet) using a Solidity compiler and an Ethereum client (such as Remix or Truffle). Then you can interact with the contract using a web3 provider (such as MetaMask) or a smart contract wallet (such as Gnosis Safe).
