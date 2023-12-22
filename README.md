@@ -33,4 +33,4 @@ This code is licensed under the [MIT](https://choosealicense.com/licenses/mit/) 
 
 ## Acknowledgements
 
-I would like to acknowledge the Remix Tutorials and the Remix website for providing helpful resources and tools for learning and developing smart contracts on the Ethereum network. Their tutorials and user-friendly interface have been instrumental in my understanding and development of Solidity smart contracts. Thank you for your valuable contributions to the blockchain community!
+I extend my heartfelt gratitude to Remix Tutorials and the Remix website for their invaluable resources and user-friendly tools. Their tutorials have significantly enhanced my understanding and proficiency in developing Solidity smart contracts on the Ethereum network. Thank you for your remarkable contributions to the blockchain community!
